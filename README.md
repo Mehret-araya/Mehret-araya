@@ -16,8 +16,8 @@ I am a passionate Full-Stack Developer based in Ethiopia. I love building scalab
 | **[AI Farmer Assistant](https://github.com/Mehret-araya/AI-farmer-assistant)** | An AI-powered agriculture assistant for Ethiopian farmers. | JavaScript, Gemini API |
 
 ## 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn URL Here]
-- **Email:** [Your Email Here]
+- **LinkedIn:** https://www.linkedin.com/in/mehret-araya
+- **Email:  mehretaraya499@gmail.com
 
 ---
 ⭐️ *Always learning, building, and pushing commits!*
