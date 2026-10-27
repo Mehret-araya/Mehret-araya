@@ -7,6 +7,10 @@ I am a passionate Full-Stack Developer based in Ethiopia. I love building scalab
 - **Frontend:** React, Next.js, TypeScript, JavaScript
 - **Mobile:** Kotlin, Jetpack Compose
 - **AI & Tools:** Git, GitHub, Gemini API, REST APIs
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 💻 Projects I'm proud of
 | Project | What it does | Stack |
